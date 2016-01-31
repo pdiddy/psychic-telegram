@@ -1,0 +1,8 @@
+{
+    "name": "pdiddy/psychic-telegram",
+    "autoload": {
+        "psr-0" : {
+            "Pdiddy\\PsychicTelegram" : "src"
+        }
+    }
+}
